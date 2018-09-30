@@ -2,7 +2,7 @@
 
 如何使用 venv 建立 virtual environments  📝
 
-* [Youtube Tutorial - How to use venv to create virtual environments - python]()
+* [Youtube Tutorial - How to use venv to create virtual environments - python](https://youtu.be/LzaBf2QjR8s)
 
 
 ## 簡介
