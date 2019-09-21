@@ -56,6 +56,12 @@ python -m venv tutorial-venv
 tutorial-venv\Scripts\activate.bat
 ```
 
+補充 Linux or Mac
+
+```cmd
+source activate
+```
+
 如下圖，執行在 terminal 中輸入 `activate.bat` 即可，
 
 ![alt tag](https://i.imgur.com/zTrvEP8.png)
