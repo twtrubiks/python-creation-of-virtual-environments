@@ -19,7 +19,27 @@
 
 使用 [venv](https://docs.python.org/3/library/venv.html) 建立 virtual environments 吧:grinning:
 
-## 教學
+## Linux 教學
+
+假如我今天想要安裝 python3.8, 直接執行以下指令即可(依照自己需要的 python 版本做修改)
+
+```cmd
+sudo apt install python3.8 python3.8-venv python3-venv
+```
+
+建立 venv
+
+```cmd
+python3.8 -m venv my-py-38-venv
+```
+
+啟動 venv 環境
+
+```cmd
+source my-py-38-venv/bin/activate
+```
+
+## Windows 教學
 
 ### 安裝 python
 首先，一定要先下載 [python](https://www.python.org/downloads/)，當你在安裝時，他會問你是否要加入環境變數，請記得要把他打勾:thumbsup:
