@@ -4,6 +4,7 @@
 
 * [Youtube Tutorial - How to use venv to create virtual environments - python](https://youtu.be/LzaBf2QjR8s)
 
+* 更進階的方式(可多版本) - [pyenv 教學](https://github.com/twtrubiks/python-notes/tree/master/pyenv_tutorial)
 
 ## 簡介
 
